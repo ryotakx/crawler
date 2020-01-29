@@ -1,2 +1,2 @@
 # crawler
-crawlers for Search Engine
+crawlers for the Search Engine project
