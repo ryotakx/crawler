@@ -1,0 +1,1072 @@
+1580146601165	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileMW7aXB"
+1580146601745	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580146601860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580146601860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580146601860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580146601860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580146603887	Marionette	INFO	Listening on port 52508
+1580146603965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580146671357	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileu0aAGC"
+1580146671908	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580146672001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580146672001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580146672001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580146672001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580146673642	Marionette	INFO	Listening on port 52806
+1580146673736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580146718958	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile651Q09"
+1580146719524	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580146719611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580146719611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580146719612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580146719612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580146721282	Marionette	INFO	Listening on port 53053
+1580146721332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580146808737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileMZdO8f"
+1580146809322	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580146809415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580146809415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580146809415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580146809415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580146811120	Marionette	INFO	Listening on port 53392
+1580146811198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580147019900	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileuNJm1q"
+1580147020429	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580147020519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580147020519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580147020519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580147020519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580147022215	Marionette	INFO	Listening on port 53962
+1580147022274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580147150623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileirI6tm"
+1580147151249	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580147151348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580147151348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580147151348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580147151348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580147153101	Marionette	INFO	Listening on port 54364
+1580147153186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580147272642	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilexvc01T"
+1580147273231	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580147273323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580147273323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580147273323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580147273323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580147275038	Marionette	INFO	Listening on port 54757
+1580147275119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580147291820	Marionette	INFO	Stopped listening on port 52508
+1580147293993	Marionette	INFO	Stopped listening on port 52806
+1580147296199	Marionette	INFO	Stopped listening on port 53053
+1580147298448	Marionette	INFO	Stopped listening on port 53392
+1580147300674	Marionette	INFO	Stopped listening on port 53962
+1580147302839	Marionette	INFO	Stopped listening on port 54364
+1580147314647	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileq5mwyf"
+1580147315035	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580147315127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580147315127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580147315127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580147315127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580147316794	Marionette	INFO	Listening on port 54990
+1580147316816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580147365470	Marionette	INFO	Stopped listening on port 54990
+1580147368217	Marionette	INFO	Stopped listening on port 54757
+1580147379714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilemQKwlo"
+1580147380054	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580147380144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580147380144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580147380144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580147380144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580147381733	Marionette	INFO	Listening on port 55290
+1580147381775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580147399825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileY5CcnL"
+1580147400171	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580147400260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580147400260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580147400260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580147400260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580147401838	Marionette	INFO	Listening on port 55383
+1580147401893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580147511831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileEIAGt1"
+1580147512184	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580147512273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580147512273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580147512273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580147512273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580147513881	Marionette	INFO	Listening on port 55753
+1580147513892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580147721090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilefVhAud"
+1580147721429	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580147721526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580147721526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580147721527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580147721527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580147723124	Marionette	INFO	Listening on port 56301
+1580147723147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1580148374577	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile6K7y41"
+1580148374996	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580148375088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580148375088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580148375088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580148375088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580148376727	Marionette	INFO	Listening on port 57792
+1580148376739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580148428504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileEsJN03"
+1580148428970	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580148429062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580148429062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580148429062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580148429062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1580148434114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile5yOQ1j"
+1580148434452	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580148434542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580148434542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580148434542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580148434542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580148436217	Marionette	INFO	Listening on port 58129
+1580148436273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580148755876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile1yGJbh"
+1580148756337	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580148756430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580148756430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580148756431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580148756431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580148758031	Marionette	INFO	Listening on port 58920
+1580148758043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580148913314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile09P3Sl"
+1580148913882	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580148913973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580148913973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580148913973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580148913973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580148915633	Marionette	INFO	Listening on port 59379
+1580148915690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580148963845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileG6tYja"
+1580148964480	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580148964568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580148964568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580148964568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580148964568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580148966228	Marionette	INFO	Listening on port 59626
+1580148966323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580149439701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile7amdSR"
+1580149440298	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580149440388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580149440388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580149440389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580149440389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580149442103	Marionette	INFO	Listening on port 60738
+1580149442186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580149635677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileFHAPEP"
+1580149636315	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580149636407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580149636407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580149636408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580149636408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580149638198	Marionette	INFO	Listening on port 61289
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1580149647355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileFMCMkE"
+1580149647715	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580149647809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580149647809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580149647809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580149647810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580149649483	Marionette	INFO	Listening on port 61354
+1580149649533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580149745993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileKmeoM9"
+1580149746536	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580149746624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580149746625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580149746625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580149746625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580149748460	Marionette	INFO	Listening on port 61713
+1580149748473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580149915855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileVruVQ1"
+1580149916420	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580149916717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580149916717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580149916718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580149916719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580149918523	Marionette	INFO	Listening on port 62195
+1580149918539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580149992225	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile4OZ6Xi"
+1580149992816	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580149992909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580149992910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580149992910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580149992910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580149994643	Marionette	INFO	Listening on port 62504
+1580149994704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580150069830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileaPVeJy"
+1580150070527	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580150070724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580150070724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580150070725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580150070725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580150072461	Marionette	INFO	Listening on port 62808
+1580150072516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580150146965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileV493kJ"
+1580150147543	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580150147638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580150147638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580150147638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580150147638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580150149357	Marionette	INFO	Listening on port 63112
+1580150149444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580150241569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileVOYQuV"
+1580150242232	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580150242437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580150242437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580150242437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580150242437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580150244188	Marionette	INFO	Listening on port 63450
+1580150244246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580150397652	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileRrOv1O"
+1580150398218	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580150398330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580150398330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580150398330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580150398331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580150400064	Marionette	INFO	Listening on port 63921
+1580150400125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580150671250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileas4G2a"
+1580150671930	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580150672026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580150672026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580150672027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580150672027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580150673786	Marionette	INFO	Listening on port 64599
+1580150673826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580150748143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilegA9Cad"
+1580150748708	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580150748803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580150748803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580150748803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580150748803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580150750529	Marionette	INFO	Listening on port 64891
+1580150750613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580150848178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileM4IGLD"
+1580150848859	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580150848970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580150848970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580150848970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580150848970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580150850727	Marionette	INFO	Listening on port 65253
+1580150850745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580150955633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofiledSrnSm"
+1580150956591	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580150956821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580150956821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580150956821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580150956821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580150958631	Marionette	INFO	Listening on port 49240
+1580150958655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580152931511	Marionette	INFO	Stopped listening on port 55290
+1580152934107	Marionette	INFO	Stopped listening on port 55383
+1580152936740	Marionette	INFO	Stopped listening on port 55753
+1580152939309	Marionette	INFO	Stopped listening on port 56301
+1580152942017	Marionette	INFO	Stopped listening on port 57792
+1580152944587	Marionette	INFO	Stopped listening on port 58129
+1580152947852	Marionette	INFO	Stopped listening on port 58920
+1580152950477	Marionette	INFO	Stopped listening on port 59379
+1580152952802	Marionette	INFO	Stopped listening on port 59626
+1580152955028	Marionette	INFO	Stopped listening on port 60738
+1580152957302	Marionette	INFO	Stopped listening on port 61354
+1580152960195	Marionette	INFO	Stopped listening on port 61713
+1580152963002	Marionette	INFO	Stopped listening on port 62195
+1580157570172	Marionette	INFO	Stopped listening on port 62504
+1580157572385	Marionette	INFO	Stopped listening on port 62808
+1580157574605	Marionette	INFO	Stopped listening on port 63112
+1580157576461	Marionette	INFO	Stopped listening on port 63450
+1580157578447	Marionette	INFO	Stopped listening on port 63921
+1580157580393	Marionette	INFO	Stopped listening on port 64599
+1580157582185	Marionette	INFO	Stopped listening on port 64891
+1580157584021	Marionette	INFO	Stopped listening on port 65253
+1580157586126	Marionette	INFO	Stopped listening on port 49240
+1580172233889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile61mY8T"
+1580172234535	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580172234627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580172234627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580172234627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580172234627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580172236371	Marionette	INFO	Listening on port 60476
+1580172236472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580172280472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileSB4sBn"
+1580172281011	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580172281122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580172281122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580172281122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580172281122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580172282754	Marionette	INFO	Listening on port 60608
+1580172282838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580172320282	Marionette	INFO	Stopped listening on port 60476
+1580172322415	Marionette	INFO	Stopped listening on port 60608
+1580172958950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilebajYQS"
+1580172959582	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580172959673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580172959673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580172959673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580172959673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580172961333	Marionette	INFO	Listening on port 61838
+1580172961422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580172963173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileDSsFeu"
+1580172963526	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580172963617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580172963617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580172963618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580172963618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580172965229	Marionette	INFO	Listening on port 61890
+1580172965331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580172967106	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileoIF7H3"
+1580172967482	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580172967573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580172967573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580172967574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580172967574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580172969467	Marionette	INFO	Listening on port 61941
+1580172969488	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1580173011230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilebQgs6W"
+1580173043318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilegM3w22"
+1580173043709	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580173043803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580173043803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580173043803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580173043803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580173045395	Marionette	INFO	Listening on port 62136
+1580173045484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580173050582	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilejyu4u5"
+1580173050940	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580173051027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580173051027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580173051027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580173051027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580173052610	Marionette	INFO	Listening on port 62191
+1580173052656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580173057449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilen3Mm0t"
+1580173057822	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580173057913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580173057913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580173057913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580173057913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580173059565	Marionette	INFO	Listening on port 62243
+1580173059612	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1580173279159	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileG2hEeI"
+1580173279545	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580173279636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580173279636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580173279636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580173279636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580173281214	Marionette	INFO	Listening on port 62671
+1580173281238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580173286012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileDlLth3"
+1580173286372	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580173286464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580173286465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580173286465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580173286465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580173288074	Marionette	INFO	Listening on port 62724
+1580173288084	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1580174548049	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileZv6X9G"
+1580174548439	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580174548532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580174548532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580174548532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580174548532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580174550157	Marionette	INFO	Listening on port 65137
+1580174550197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580174571791	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileCMUwP4"
+1580174572198	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580174572292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580174572292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580174572293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580174572293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580174573907	Marionette	INFO	Listening on port 65242
+1580174573940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580174710893	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilejYJvCt"
+1580174711397	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580174711491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580174711491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580174711491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580174711491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580174713156	Marionette	INFO	Listening on port 49270
+1580174713261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580174792706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilenqz4Ve"
+1580174793187	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580174793281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580174793281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580174793282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580174793282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580174794907	Marionette	INFO	Listening on port 49565
+1580174794966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580174822745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileTTLS6u"
+1580174823105	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580174823202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580174823202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580174823203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580174823203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580174825090	Marionette	INFO	Listening on port 49753
+1580174825106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580174910251	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileg0etKZ"
+1580174910705	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580174910800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580174910801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580174910801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580174910801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580174912425	Marionette	INFO	Listening on port 50048
+1580174912511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580174953240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile58CKm7"
+1580174953642	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580174953733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580174953733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580174953733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580174953733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580174955352	Marionette	INFO	Listening on port 50260
+1580174955402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580175028394	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileg6AWeR"
+1580175028927	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580175029017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580175029017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580175029018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580175029018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580175030666	Marionette	INFO	Listening on port 50533
+1580175030745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580175187718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilesDqwiH"
+1580175188219	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580175188309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580175188309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580175188310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580175188310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580175190030	Marionette	INFO	Listening on port 50957
+1580175190096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580175315507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileQPI5KK"
+1580175316010	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580175316102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580175316102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580175316102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580175316102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580175317909	Marionette	INFO	Listening on port 51363
+1580175317982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580175379752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilemQmbua"
+1580175380285	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580175380387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580175380387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580175380387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580175380387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580175382250	Marionette	INFO	Listening on port 51613
+1580175382327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580175401729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile4H1Hgb"
+1580175402219	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580175402311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580175402311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580175402311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580175402311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580175404011	Marionette	INFO	Listening on port 51782
+1580175404108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580175944186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileYn1Cqo"
+1580175944770	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580175944861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580175944861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580175944862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580175944862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580175946955	Marionette	INFO	Listening on port 52955
+1580175946986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176107506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile5zfip0"
+1580176108053	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176108147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176108147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176108147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176108147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176110177	Marionette	INFO	Listening on port 53414
+1580176110212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176243812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilejnL6R1"
+1580176244319	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176244448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176244448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176244448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176244448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176246094	Marionette	INFO	Listening on port 53812
+1580176246189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176327687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilevwRp7f"
+1580176328165	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176328270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176328270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176328270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176328271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176329971	Marionette	INFO	Listening on port 54119
+1580176330065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176605117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilevRnT2J"
+1580176605661	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176606017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176606017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176606017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176606017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176607830	Marionette	INFO	Listening on port 54814
+1580176607842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176635053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileLAcsXS"
+1580176635541	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176635643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176635643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176635644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176635644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176637342	Marionette	INFO	Listening on port 55014
+1580176637421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176787216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofiletZNKzx"
+1580176787921	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176788327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176788327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176788327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176788327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176790214	Marionette	INFO	Listening on port 55453
+1580176790307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176803985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileWypwmU"
+1580176804427	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176804520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176804520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176804520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176804520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176806141	Marionette	INFO	Listening on port 55633
+1580176806241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176817368	Marionette	INFO	Stopped listening on port 65137
+1580176818798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileHr7sUZ"
+1580176819160	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176819251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176819251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176819251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176819251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176820925	Marionette	INFO	Listening on port 55801
+1580176820970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580176821817	Marionette	INFO	Stopped listening on port 65242
+1580176824174	Marionette	INFO	Stopped listening on port 49270
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176827150	Marionette	INFO	Stopped listening on port 49565
+1580176833201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileIsI6NJ"
+1580176833552	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176833668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176833669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176833669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176833669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176835422	Marionette	INFO	Listening on port 55969
+1580176835503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176848094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileXCaNm6"
+1580176848645	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176848747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176848748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176848748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176848748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176850545	Marionette	INFO	Listening on port 56138
+1580176850574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176861897	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileeJzuH4"
+1580176862374	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176862475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176862475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176862475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176862475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176864188	Marionette	INFO	Listening on port 56314
+1580176864267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176876220	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileE0n0bK"
+1580176876719	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176876817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176876817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176876817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176876817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176878544	Marionette	INFO	Listening on port 56491
+1580176878585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580176891580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileKp9lJP"
+1580176892203	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580176892296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580176892296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580176892297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580176892297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580176894124	Marionette	INFO	Listening on port 56665
+1580176894163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1580176919412	Marionette	INFO	Stopped listening on port 49753
+1580176923803	Marionette	INFO	Stopped listening on port 50048
+1580176926703	Marionette	INFO	Stopped listening on port 50260
+1580176929715	Marionette	INFO	Stopped listening on port 50533
+1580176932127	Marionette	INFO	Stopped listening on port 50957
+1580176934079	Marionette	INFO	Stopped listening on port 51363
+1580176936741	Marionette	INFO	Stopped listening on port 51613
+1580176939493	Marionette	INFO	Stopped listening on port 51782
+1580176943141	Marionette	INFO	Stopped listening on port 52955
+1580176945224	Marionette	INFO	Stopped listening on port 53414
+1580176947187	Marionette	INFO	Stopped listening on port 53812
+1580176949142	Marionette	INFO	Stopped listening on port 54119
+1580176951041	Marionette	INFO	Stopped listening on port 54814
+1580176953034	Marionette	INFO	Stopped listening on port 55014
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1580176965997	Marionette	INFO	Stopped listening on port 55969
+1580176968074	Marionette	INFO	Stopped listening on port 56138
+1580176970263	Marionette	INFO	Stopped listening on port 56314
+1580177002413	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile3JCmJC"
+1580177002833	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177002938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177002938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177002938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177002938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177004482	Marionette	INFO	Listening on port 56980
+1580177004568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177017013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileB28Dto"
+1580177017359	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177017448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177017448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177017448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177017448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177019028	Marionette	INFO	Listening on port 57143
+1580177019064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177031119	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofile41FQVX"
+1580177031475	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177031564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177031564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177031565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177031565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177032984	Marionette	INFO	Listening on port 57313
+1580177033075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177044813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilenKGUoD"
+1580177045169	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177045258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177045258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177045258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177045258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177046687	Marionette	INFO	Listening on port 57476
+1580177046772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177059324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileCpHPOV"
+1580177059671	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177059761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177059761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177059761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177059761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177061170	Marionette	INFO	Listening on port 57634
+1580177061181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177072492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilesfT9Pm"
+1580177072850	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177072937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177072937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177072938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177072938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177074360	Marionette	INFO	Listening on port 57803
+1580177074455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177086727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilegEU2WN"
+1580177087087	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177087178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177087178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177087178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177087179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177088604	Marionette	INFO	Listening on port 57969
+1580177088686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177101253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileMeE5zd"
+1580177101617	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177101709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177101709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177101709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177101709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177103133	Marionette	INFO	Listening on port 58142
+1580177103227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177115612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileZsvR52"
+1580177115955	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177116045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177116045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177116045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177116045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177117473	Marionette	INFO	Listening on port 58308
+1580177117561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177130089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileQHwfVq"
+1580177130452	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177130543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177130544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177130544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177130545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177131974	Marionette	INFO	Listening on port 58480
+1580177132048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177144332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofileZ6QPMD"
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580177236718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/txs3rp6957jct54grwqfcbvr0000gn/T/rust_mozprofilesguiz6"
+1580177237131	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580177237354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580177237354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580177237355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580177237355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580177239154	Marionette	INFO	Listening on port 58890
+1580177239218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_6ab0b4509bec0f7b92e15e23fee5d263.js?6ab0b4509bec0f7b92e15e23fee5d263, line 134: unreachable code after return statement
+1580202597066	Marionette	INFO	Stopped listening on port 56980
+1580202600230	Marionette	INFO	Stopped listening on port 57143
+1580202602796	Marionette	INFO	Stopped listening on port 57313
+1580202606288	Marionette	INFO	Stopped listening on port 57476
+1580202610089	Marionette	INFO	Stopped listening on port 57634
+1580202616729	Marionette	INFO	Stopped listening on port 57803
+1580202619052	Marionette	INFO	Stopped listening on port 57969
+1580202621152	Marionette	INFO	Stopped listening on port 58142
+1580202631024	Marionette	INFO	Stopped listening on port 58308
+1580202633596	Marionette	INFO	Stopped listening on port 58480
+1580202636117	Marionette	INFO	Stopped listening on port 58890
