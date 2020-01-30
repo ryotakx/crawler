@@ -55,6 +55,7 @@ async def request():
     async with Pool() as pool:
         await pool.starmap(get, args)
 
+
 def get_url(sid, url_type='lyric'):
     api = 'https://api.imjad.cn/cloudmusic/?type=' + url_type + '&id=' + str(sid)
     return api
